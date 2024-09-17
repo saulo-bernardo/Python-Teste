@@ -1,0 +1,1 @@
+f = os.walk('receita-bolo-cenoura.txt', 'r')
